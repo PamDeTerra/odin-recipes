@@ -1,4 +1,4 @@
-# odin-recipes
+# recipes-website
 The Odin Project's first project assignment, create a site about recipes
 Inside contains the complete recipe to make the Krabby Patty, including the secret ingredient
 
