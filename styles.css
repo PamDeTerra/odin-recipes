@@ -1,0 +1,24 @@
+.column {
+  float: left
+  width: 33.3%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.column img {
+  width: auto;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+h1 {
+  text-align: center;
+}
+
+.recipename {
+  text-align: center;
+}
