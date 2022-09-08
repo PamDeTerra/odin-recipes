@@ -1,5 +1,4 @@
-The Odin Project's first project assignment
-A project website on (three fictional) recipes  
+A project website on (three fictional) recipes.```
 The Krabby Patty, Special Sentient Sandwich and Naruto Ramen  
 
 **Upon completion, I hope to have demonstrated:**
